@@ -132,7 +132,12 @@ These exist as models, tables, or UI but are **not** complete end-to-end:
 
 ## Screenshots / Demo
 
-No screenshots, GIFs, or public demo URLs are present in the repository.
+<img width="2500" height="998" alt="image" src="https://github.com/user-attachments/assets/173cf82b-ab19-44cf-a5a8-d68485e46113" />
+<img width="2493" height="998" alt="image" src="https://github.com/user-attachments/assets/cca8ae5b-6129-4c9f-bd00-b2cc909d6ec9" />
+<img width="2496" height="994" alt="image" src="https://github.com/user-attachments/assets/65bae1c5-c796-4ae9-b807-41fc3b4938fa" />
+<img width="2497" height="999" alt="image" src="https://github.com/user-attachments/assets/d020e49c-2278-4d55-92c1-814961f9f7e6" />
+<img width="2490" height="993" alt="image" src="https://github.com/user-attachments/assets/89a8047e-c18b-431f-808b-707df6796d63" />
+
 
 <!-- TODO: add screenshots/demo. Suggested locations:
      - web/public/screenshots/*.png
