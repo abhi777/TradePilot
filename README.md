@@ -7,6 +7,9 @@ sales pipeline, and manages supplier/RFQ procurement — all scoped to a secure,
 multi-tenant SaaS architecture.
 
 ---
+<img width="2497" height="1042" alt="image" src="https://github.com/user-attachments/assets/ee5f70fb-a514-4f2e-a5aa-7c6f88f9d4f3" />
+
+
 
 ## Table of Contents
 
