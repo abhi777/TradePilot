@@ -7,7 +7,8 @@ sales pipeline, and manages supplier/RFQ procurement — all scoped to a secure,
 multi-tenant SaaS architecture.
 
 ---
-<img width="2497" height="1042" alt="image" src="https://github.com/user-attachments/assets/ee5f70fb-a514-4f2e-a5aa-7c6f88f9d4f3" />
+<img width="2496" height="993" alt="image" src="https://github.com/user-attachments/assets/7b5581b8-c2db-4263-adad-08c634e11e5a" />
+
 
 
 
@@ -132,11 +133,21 @@ These exist as models, tables, or UI but are **not** complete end-to-end:
 
 ## Screenshots / Demo
 
-<img width="2500" height="998" alt="image" src="https://github.com/user-attachments/assets/173cf82b-ab19-44cf-a5a8-d68485e46113" />
-<img width="2493" height="998" alt="image" src="https://github.com/user-attachments/assets/cca8ae5b-6129-4c9f-bd00-b2cc909d6ec9" />
-<img width="2496" height="994" alt="image" src="https://github.com/user-attachments/assets/65bae1c5-c796-4ae9-b807-41fc3b4938fa" />
-<img width="2497" height="999" alt="image" src="https://github.com/user-attachments/assets/d020e49c-2278-4d55-92c1-814961f9f7e6" />
-<img width="2490" height="993" alt="image" src="https://github.com/user-attachments/assets/89a8047e-c18b-431f-808b-707df6796d63" />
+<img width="2497" height="994" alt="image" src="https://github.com/user-attachments/assets/708b58e9-d3bc-4ace-9df5-bab4b42ce5da" />
+<img width="2503" height="993" alt="image" src="https://github.com/user-attachments/assets/d2efff20-d5f1-43ea-8472-9566179295f2" />
+<img width="2501" height="994" alt="image" src="https://github.com/user-attachments/assets/396f3b1b-d156-40b5-94c5-e894f343d1b2" />
+<img width="2504" height="996" alt="image" src="https://github.com/user-attachments/assets/127f633f-0d95-4392-92ec-8366b464d19a" />
+<img width="2497" height="996" alt="image" src="https://github.com/user-attachments/assets/4ad5f934-9d43-4ae4-a87d-144fb0f7e9f5" />
+<img width="2501" height="992" alt="image" src="https://github.com/user-attachments/assets/d4afb645-5abe-49a3-9671-3cc48fe4c3b7" />
+<img width="2500" height="988" alt="image" src="https://github.com/user-attachments/assets/99bce34a-76fa-489d-91ac-11ed86c043db" />
+<img width="2498" height="995" alt="image" src="https://github.com/user-attachments/assets/c07a4dc9-d83e-429a-b041-1182b344067d" />
+<img width="2495" height="996" alt="image" src="https://github.com/user-attachments/assets/c4f3e0b0-2dda-4a70-8c57-5e750c4c7049" />
+<img width="2500" height="993" alt="image" src="https://github.com/user-attachments/assets/74dd833d-9523-4d7a-8297-9a73a923867b" />
+
+
+
+
+
 
 
 <!-- TODO: add screenshots/demo. Suggested locations:
